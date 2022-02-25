@@ -8,4 +8,4 @@ The currently running Bot will be the only version that is supported. If you fin
 
 Use this section to tell people how to report a vulnerability.
 
-Email us at [scamscannerdiscord@gmail.com](mailto:scamscannerdiscord@gmail.com) if you find a security flaw. Expect an initial response within 5 buisness days, and a followup within a week of that if it is real or not.
+Email us at [scamscannerdiscord@gmail.com](mailto:scamscannerdiscord@gmail.com) if you find a security flaw. Expect an initial response within 5 business days, and a follow-up within a week of that if it is real or not.
