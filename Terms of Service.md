@@ -285,4 +285,4 @@ out-of-court method for solving any dispute related to and stemming from online 
 As a result, any European Consumer can use such a platform for resolving any dispute stemming from contracts that have
 been entered into online. The platform is [available at the following link](http://ec.europa.eu/consumers/odr/).
 
-Latest update: February 13, 2022
+Latest update: February 25 2022
