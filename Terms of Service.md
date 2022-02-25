@@ -13,7 +13,7 @@ These terms govern:
 * the application associated with the discord Bot account Scam Scanner#9816;
 * any application commands asscoiated with the aforementioned bot account;
 * the website associated with the aforementioned account;
-* and this [GitHub](https://github.com/Bluesy1/ScamScanner);
+* and this [GitHub](https://github.com/Scam-Scanner/Issues-and-Support);
 
 "the User" refers to:
 
