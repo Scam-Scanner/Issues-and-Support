@@ -69,7 +69,7 @@ or are suspected to engage in any of the following activities:
 **Disclaimer of Warranties**
 
 The Bot is provided strictly on an “as is” and “as available” basis. Use of the Service is at Users’ own risk. To the
-the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and
+maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and
 warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of
 merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information,
 whether oral or written, obtained by the user from the owner or through the Service will create any warranty not expressly
@@ -285,4 +285,4 @@ out-of-court method for solving any dispute related to and stemming from online 
 As a result, any European Consumer can use such a platform for resolving any dispute stemming from contracts that have
 been entered into online. The platform is [available at the following link](http://ec.europa.eu/consumers/odr/).
 
-Latest update: February 25, 2022
+Latest update: March 02, 2022
