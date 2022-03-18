@@ -19,4 +19,26 @@ jobs:
         destination_folder: 'Website'
         user_email: '68259537+Bluesy1@users.noreply.github.com'
         user_name: 'Bluesy1'
-        commit_message: 'Shift the file'
+        commit_message: 'Shift Contact us'
+    - name: TOS
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'Terms of Service.md'
+        destination_repo: 'Scam-Scanner/ScamScanner'
+        destination_folder: 'Website'
+        user_email: '68259537+Bluesy1@users.noreply.github.com'
+        user_name: 'Bluesy1'
+        commit_message: 'Shift TOS'
+    - name: Privacy Policy
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'Privacy Policy.md'
+        destination_repo: 'Scam-Scanner/ScamScanner'
+        destination_folder: 'Website'
+        user_email: '68259537+Bluesy1@users.noreply.github.com'
+        user_name: 'Bluesy1'
+        commit_message: 'Shift Privacy Policy'
