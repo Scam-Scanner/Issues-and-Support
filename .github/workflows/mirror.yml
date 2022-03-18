@@ -1,5 +1,3 @@
-Name: Mirror Repository
-
 on: [ push, delete, create ]
 
 # We want only one mirror workflow at a time.
