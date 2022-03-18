@@ -1,0 +1,22 @@
+name: Push File
+
+on: push
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Contact us
+      uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_file: 'CONTACT.md'
+        destination_repo: 'Scam-Scanner/ScamScanner'
+        destination_folder: 'Website'
+        user_email: '68259537+Bluesy1@users.noreply.github.com'
+        user_name: 'Bluesy1'
+        commit_message: 'Shift the file'
