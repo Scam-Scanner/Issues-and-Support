@@ -19,7 +19,7 @@ jobs:
         destination_folder: 'Website'
         user_email: '68259537+Bluesy1@users.noreply.github.com'
         user_name: 'Bluesy1'
-        commit_message: 'Shift Contact us'
+        commit_message: 'GHA-Shift Contact us'
     - name: TOS
       uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
       env:
@@ -30,7 +30,7 @@ jobs:
         destination_folder: 'Website'
         user_email: '68259537+Bluesy1@users.noreply.github.com'
         user_name: 'Bluesy1'
-        commit_message: 'Shift TOS'
+        commit_message: 'GHA-Shift TOS'
     - name: Privacy Policy
       uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
       env:
@@ -41,4 +41,4 @@ jobs:
         destination_folder: 'Website'
         user_email: '68259537+Bluesy1@users.noreply.github.com'
         user_name: 'Bluesy1'
-        commit_message: 'Shift Privacy Policy'
+        commit_message: 'GHA-Shift Privacy Policy'
