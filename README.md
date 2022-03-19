@@ -6,3 +6,5 @@ Please directly email us at [scamscannerdiscord@gmail.com](mailto:scamscannerdis
 For other issues or feature requests, open the appropriate issue ticket under issues and it will be handled from there.
 
 For more contact info, check [CONTACT.md](CONTACT.md)
+
+Invite [here](https://discord.com/api/oauth2/authorize?client_id=934128728794091550&permissions=1254936144966&scope=bot%20applications.commands)
