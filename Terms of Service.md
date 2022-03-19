@@ -14,6 +14,7 @@ These terms govern:
 * any application commands associated with the aforementioned bot account;
 * the website associated with the aforementioned account;
 * and this [GitHub](https://github.com/Scam-Scanner/Issues-and-Support);
+* and the [Offical Support Server](https://discord.gg/Q8KYEA7sWg);
 
 "the User" refers to:
 
@@ -285,4 +286,9 @@ out-of-court method for solving any dispute related to and stemming from online 
 As a result, any European Consumer can use such a platform for resolving any dispute stemming from contracts that have
 been entered into online. The platform is [available at the following link](http://ec.europa.eu/consumers/odr/).
 
-Latest update: March 02, 2022
+**Updates to the Terms and Privacy Policy**
+
+The Owner reserves the right to update the Terms of Service or Privacy Policy without prior notice. However, the owner 
+will try to give a weeks notice before changes to Terms of Service or Privacy Policy go into effect.
+
+Latest update: March 19, 2022
