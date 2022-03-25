@@ -43,7 +43,7 @@ Users have a right at any time to lodge a complaint with the appropriate data pr
 jurisdiction.
 
 Users may contact the owner at [scamscannerdiscord@gmail.com](mailto:scamscannerdiscord@gmail.com) with any additional
-questions, concerns or requests, open an issue or discussion on the 
+questions, concerns or requests, open an issue or discussion on the
 [Support GitHub](https://github.com/Scam-Scanner/Issues-and-Support) for the bot,
 or join the [Support Server](https://discord.gg/Q8KYEA7sWg).
 
